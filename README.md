@@ -67,4 +67,10 @@ FHIR is created and maintained by an organization called HL7. To understand FHIR
   * Collection of resources
 * Profiles
 * Create FHIR resource (13 min) https://www.youtube.com/watch?v=gj0w5W3sgPo
-* 
+* http://clinfhir.com/
+* Use VSCode to create FHIR resource in JSON
+  * Configure VSCode to use .json schema
+  * VSCode - File - Preferences - Settings - Extensions - JSON - JSON: Schemas - Edit in settings.json - add screenshot under "json.schemas" section
+ 
+![image](https://github.com/user-attachments/assets/d544c835-1370-49e9-8236-1951be392bb0)
+
