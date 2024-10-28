@@ -43,6 +43,6 @@ FHIR is created and maintained by an organization called HL7. To understand FHIR
   * Boundaries and relationships
 *  Resource documentation
 *  Resource Content
-  *   Structure, UML, XML, JSON, Turtle, R4 Diff, All
-  *   Structure
-    *   Name, Flags, Cardinality, Type, Description and Constraints
+  * Structure, UML, XML, JSON, Turtle, R4 Diff, All
+  * Structure
+    * Name, Flags, Cardinality, Type, Description and Constraints
