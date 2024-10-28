@@ -46,3 +46,25 @@ FHIR is created and maintained by an organization called HL7. To understand FHIR
   * Structure, UML, XML, JSON, Turtle, R4 Diff, All
   * Structure
     * Name, Flags, Cardinality, Type, Description and Constraints
+* Key parts of a FHIR resource
+  * Resource identity
+  * Resource Metadata
+  * Narrative
+  * Extensions
+  * Core Content
+* FHIR Extensions
+* Extending a core element
+* How do I design my system for extensions?
+* FHIR data types
+  * Simple/Primitive
+    * lowercase
+  * Complex
+    * Uppercase
+* Resource references
+* Representation of the resources
+  * XML or JSON
+* Bundles
+  * Collection of resources
+* Profiles
+* Create FHIR resource (13 min) https://www.youtube.com/watch?v=gj0w5W3sgPo
+* 
